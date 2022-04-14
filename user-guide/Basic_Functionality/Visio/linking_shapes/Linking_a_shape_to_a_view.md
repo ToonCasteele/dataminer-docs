@@ -15,6 +15,7 @@ By default, this will cause the Visio drawing linked to that view to be opened e
 
 > [!NOTE]
 > - Visio shapes linked to views will not be displayed if, for any reason, those links cannot be resolved. Link problems can occur due to insufficient user rights, missing DataMiner items, invalid parameter values, etc.
+> - For an example of use, refer to the view "Linking Shapes" on ziine.skyline.be. The example can be found on the Visual page _linking > OBJECTS_
 
 ## Configuring the shape data field
 
