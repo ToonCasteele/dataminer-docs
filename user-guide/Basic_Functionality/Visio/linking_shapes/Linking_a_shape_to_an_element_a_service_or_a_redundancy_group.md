@@ -17,6 +17,7 @@ When a user clicks such a shape, by default, the Visio drawing linked to the ele
 > [!NOTE]
 > - Visio shapes linked to elements, services or redundancy groups will not be displayed if, for any reason, those links cannot be resolved. Link problems can occur because of insufficient user rights, missing DataMiner items, invalid parameter values, etc.
 > - Depending on the configuration of a redundancy group, the right-click menu of a shape that is linked to it may contain switching options.
+> - For an example of use, refer to the view "Linking Shapes" on ziine.skyline.be. The example can be found on the Visual page _linking > OBJECTS_
 
 In this section:
 
